@@ -13,11 +13,11 @@ I'm an AI Engineer based in Ahmedabad, India. I build production AI systems and 
 
 ## Technical Skills
 
-**Languages:** Python, JavaScript, SQL, Rust (learning)
+**Languages:** Python, JavaScript, Rust (learning)
 
 **Backend:** FastAPI, Django REST Framework, REST APIs, SQLAlchemy, MCP SDK
 
-**AI Engineering:** RAG, LangChain, LangGraph, OpenAI Agents SDK, custom agent loops, embeddings, vector search
+**AI Engineering:** RAG, LangChain, LangGraph, OpenAI Agents SDK, Agents Loops, Voice Agetns, Deepgram, ElevenLabs
 
 **Data:** PostgreSQL, Supabase, Pinecone, Qdrant, Redis, MongoDB, MySQL
 
